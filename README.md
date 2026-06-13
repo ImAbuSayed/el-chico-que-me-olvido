@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/el-chico-que-me-olvido/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: El chico que me olvidó](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/el-chico-que-me-olvido/) |
+| **Get License** | [Secure Licensing Rights for El chico que me olvidó](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/el-chico-que-me-olvido/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Me dicen que soy el chico que te olvidó,
+> Pero esta noche, baby, yo te doy calor.
+> Conmigo te olvidas de todo el dolor,
+> Pégate lento, show me what you got, mi amor.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
