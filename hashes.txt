@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - El chico que me olvidó
+
+This log tracks the cryptographic history and versioning for the song **El chico que me olvidó** (el-chico-que-me-olvido).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-14T05:02:19.583252 | `v1` | `3009069203cd4d45bfb5b780d0989efa0bc847ad14bed137e34a053a53ec1cd3` | `0b374653e49ae58ed7e5baa02685d02ef83e978d7c6e6fbf697670e302fed87e` | `2026-06-14_el-chico-que-me-olvido-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
